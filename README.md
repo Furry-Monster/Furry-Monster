@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+#still a collage student
+#but dream of creating indie game
+###On my way growing up!!!
 <!--
 **Furry-Monster/Furry-Monster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
