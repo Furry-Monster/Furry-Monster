@@ -13,11 +13,17 @@
 </div>
 
 ## 🎯 关于我
+
+什么都会一点，广度优先学习受害者
+
 ``` text
-🔭 目前身份： 学生，计算机专业
-🌱 正在学习： Unity/UE游戏开发,Flutter跨平台,尝试学习TA知识
-🤔 未来计划： 了解一下Flutter底层，参与更多Game Jam
-💬 技术交流： 对图形学、游戏开发、前端开发技术更感兴趣
+🔭 目前身份：学生
+
+🌱 正在学习：Unity/UE游戏开发，技术美术，Linux内核
+
+🤔 未来计划：简单学下GAMES104。
+
+💬 技术交流：对图形学、游戏开发、前端开发、Linux相关技术更感兴趣
 ```
 ## 🛠️ 技术栈
 <div align="center">
@@ -75,6 +81,16 @@
 
 </div>
 
+<div>
+
+  参考以下内容触发我的NPC闲聊事件：
+
+- 游戏（恐怖游戏/独立游戏）
+- 音乐（电子编曲/钢琴）
+- 咖啡（No Americano plz）
+- ACG（EVA/Re0）
+
+</div>
 
 ---
 ⭐️ From [Furry-Monster](https://github.com/Furry-Monster)
