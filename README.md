@@ -69,8 +69,8 @@
 ## 🎯 精选项目
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Furry-Monster&repo=YouOnlyLockOncev1.0&theme=radical)](https://github.com/Furry-Monster/YouOnlyLockOncev1.0)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Furry-Monster&repo=Dying-Light-Like-Game&theme=radical)](https://github.com/Furry-Monster/Dying-Light-Like-Game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Furry-Monster&repo=Realm&theme=radical)](https://github.com/Furry-Monster/Realm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Furry-Monster&repo=TechCore-EnemyAI&theme=radical)](https://github.com/Furry-Monster/TechCore-EnemyAI)
 
 </div>
 
