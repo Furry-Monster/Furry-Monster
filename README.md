@@ -66,14 +66,6 @@
 
 </div>
 
-## 🎯 精选项目
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Furry-Monster&repo=Realm&theme=radical)](https://github.com/Furry-Monster/Realm)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Furry-Monster&repo=TechCore-EnemyAI&theme=radical)](https://github.com/Furry-Monster/TechCore-EnemyAI)
-
-</div>
-
 ## 📫 联系我 
 <div align="center">
 
