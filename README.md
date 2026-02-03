@@ -10,7 +10,7 @@
 
 - 当前：Unity/UE、技术美术、Linux 内核
 - 计划：GAMES104
-- [Blog](https://monsterstation.netlify.app/about/) · [Site](https://www.furrym0nster.org/)
+- [Blog](https://monsterstation.netlify.app/about/) · [Site](https://monsterstation.netlify.app/about/)
 
 ## Stack
 
@@ -46,7 +46,7 @@
 
 ## Contact
 
-[Gmail](mailto:4urrym0nster@gmail.com) · [Blog](https://www.furrym0nster.org/) · [Twitter](https://twitter.com/Furry_Monster_)
+[Gmail](mailto:4urrym0nster@gmail.com) · [Blog](https://monsterstation.netlify.app/about/) · [Twitter](https://twitter.com/Furry_Monster_)
 
 ## Interests
 

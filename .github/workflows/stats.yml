@@ -1,0 +1,41 @@
+name: Generate profile stats and badges
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout output branch
+        uses: actions/checkout@v4
+        with:
+          ref: output
+          fetch-depth: 0
+
+      - name: Fetch GitHub stats
+        run: |
+          # Keep in sync with README params
+          curl -sL "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" -o stats.svg
+          curl -sL "https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" -o top-langs.svg
+          curl -sL "https://github-readme-streak-stats.herokuapp.com/?user=${{ github.repository_owner }}&theme=default&locale=cn&date_format=M%20j%5B%2C%20Y%5D" -o streak.svg
+          curl -sL "https://github-readme-activity-graph.vercel.app/graph?username=${{ github.repository_owner }}&theme=github-compact&locale=zh_CN" -o activity-graph.svg
+          curl -sL "https://github-profile-trophy.vercel.app/?username=${{ github.repository_owner }}&theme=onedark&row=1&column=7" -o trophy.svg
+
+      - name: Generate GitHub followers badge
+        run: |
+          FOLLOWERS=$(curl -sL "https://api.github.com/users/${{ github.repository_owner }}" | jq -r '.followers')
+          curl -sL "https://img.shields.io/badge/GitHub-${FOLLOWERS}%20followers-495867?style=flat-square&logo=github" -o github-followers.svg
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add stats.svg top-langs.svg streak.svg activity-graph.svg trophy.svg github-followers.svg
+          git diff --staged --quiet || (git commit -m "chore: update profile stats and badges" && git push)
