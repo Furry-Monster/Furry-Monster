@@ -64,5 +64,3 @@ Student. Focused on graphics, game dev, frontend & Linux.
 Games (horror, indie), music (electronic, piano), coffee, ACG (EVA, Re:Zero)
 
 ---
-
-<sub>Profile assets: [snk](https://github.com/Platane/snk) + [github-readme-stats-action](https://github.com/readme-tools/github-readme-stats-action) → `output` branch.</sub>
