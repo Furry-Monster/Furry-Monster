@@ -1,6 +1,6 @@
 # FurryMonster
 
-[![GitHub](https://raw.githubusercontent.com/Furry-Monster/Furry-Monster/output/github-followers.svg)](https://github.com/Furry-Monster) [![Visits](https://komarev.com/ghpvc/?username=Furry-Monster&logo=GitHub&label=views&style=flat-square)](https://github.com/Furry-Monster)
+[![GitHub](https://raw.githubusercontent.com/Furry-Monster/Furry-Monster/output/github-followers.svg)](https://github.com/Furry-Monster)
 
 ---
 
@@ -16,19 +16,6 @@
 
 `C#` `C++` `Python` `Dart` · Unity · Unreal · Flutter · Vue · Avalonia · Git · Linux · Docker · Jupyter
 
-## Stats
-
-<div align="center">
-
-<img height="137" src="https://github-readme-stats.vercel.app/api?username=Furry-Monster&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" alt="stats" />
-<img height="137" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furry-Monster&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" alt="top langs" />
-
-[![streak](https://github-readme-streak-stats.herokuapp.com/?user=Furry-Monster&theme=default&locale=cn&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Furry-Monster)
-
-<img src="https://raw.githubusercontent.com/Furry-Monster/Furry-Monster/output/activity-graph.svg" width="100%" alt="activity" />
-
-</div>
-
 ## Contribution snake
 
 <div align="center">
@@ -39,10 +26,6 @@
 </picture>
 
 </div>
-
-## Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Furry-Monster&theme=onedark&row=1&column=7)](https://github.com/Furry-Monster)
 
 ## Contact
 
