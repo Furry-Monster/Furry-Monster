@@ -4,9 +4,11 @@
 
 [![GitHub](https://raw.githubusercontent.com/Furry-Monster/Furry-Monster/output/github-followers.svg)](https://github.com/Furry-Monster)
 
+</div>
+
 ---
 
-### About
+## About
 
 Student. Focused on graphics, game dev, frontend & Linux.
 
@@ -14,7 +16,9 @@ Student. Focused on graphics, game dev, frontend & Linux.
 - Planned: GAMES104
 - [Blog](https://monsterstation.netlify.app/about/)
 
-### Stack
+## Stack
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
 <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -36,23 +40,25 @@ Student. Focused on graphics, game dev, frontend & Linux.
 
 <div align="center">
 
-### Stats
+## Stats
 
 <img height="137" src="https://raw.githubusercontent.com/Furry-Monster/Furry-Monster/output/stats.svg" alt="stats" />
 <img height="137" src="https://raw.githubusercontent.com/Furry-Monster/Furry-Monster/output/top-langs.svg" alt="top langs" />
 
 <img src="https://raw.githubusercontent.com/Furry-Monster/Furry-Monster/output/activity-graph.svg" width="100%" alt="activity" />
 
-### Contribution snake
+## Contribution snake
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/Furry-Monster/Furry-Monster/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)" />
   <img src="https://raw.githubusercontent.com/Furry-Monster/Furry-Monster/output/github-contribution-grid-snake.svg" width="100%" alt="contribution snake" />
 </picture>
 
+</div>
+
 ---
 
-### Contact · Interests
+## Contact · Interests
 
 [Gmail](mailto:4urrym0nster@gmail.com) · [Blog](https://monsterstation.netlify.app/about/) · [Twitter](https://twitter.com/Furry_Monster_)  
 Games (horror, indie), music (electronic, piano), coffee, ACG (EVA, Re:Zero)
@@ -60,5 +66,3 @@ Games (horror, indie), music (electronic, piano), coffee, ACG (EVA, Re:Zero)
 ---
 
 <sub>Profile assets: [snk](https://github.com/Platane/snk) + [github-readme-stats-action](https://github.com/readme-tools/github-readme-stats-action) → `output` branch.</sub>
-
-</div>
