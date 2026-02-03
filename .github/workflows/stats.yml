@@ -21,7 +21,6 @@ jobs:
 
       - name: Fetch GitHub stats
         run: |
-          # Keep in sync with README params
           curl -sL "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" -o stats.svg
           curl -sL "https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" -o top-langs.svg
           curl -sL "https://github-readme-streak-stats.herokuapp.com/?user=${{ github.repository_owner }}&theme=default&locale=cn&date_format=M%20j%5B%2C%20Y%5D" -o streak.svg
