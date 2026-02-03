@@ -20,10 +20,10 @@
 
 <div align="center">
 
-<img height="137" src="https://raw.githubusercontent.com/Furry-Monster/Furry-Monster/output/stats.svg" alt="stats" />
-<img height="137" src="https://raw.githubusercontent.com/Furry-Monster/Furry-Monster/output/top-langs.svg" alt="top langs" />
+<img height="137" src="https://github-readme-stats.vercel.app/api?username=Furry-Monster&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" alt="stats" />
+<img height="137" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furry-Monster&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" alt="top langs" />
 
-[![streak](https://raw.githubusercontent.com/Furry-Monster/Furry-Monster/output/streak.svg)](https://github.com/Furry-Monster)
+[![streak](https://github-readme-streak-stats.herokuapp.com/?user=Furry-Monster&theme=default&locale=cn&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Furry-Monster)
 
 <img src="https://raw.githubusercontent.com/Furry-Monster/Furry-Monster/output/activity-graph.svg" width="100%" alt="activity" />
 
@@ -42,7 +42,7 @@
 
 ## Trophies
 
-[![trophy](https://raw.githubusercontent.com/Furry-Monster/Furry-Monster/output/trophy.svg)](https://github.com/Furry-Monster)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Furry-Monster&theme=onedark&row=1&column=7)](https://github.com/Furry-Monster)
 
 ## Contact
 
