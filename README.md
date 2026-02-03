@@ -10,7 +10,7 @@
 
 - 当前：Unity/UE、技术美术、Linux 内核
 - 计划：GAMES104
-- [Blog](https://monsterstation.netlify.app/about/) · [Site](https://monsterstation.netlify.app/about/)
+- [Blog](https://monsterstation.netlify.app/about/)
 
 ## Stack
 
