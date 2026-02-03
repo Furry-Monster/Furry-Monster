@@ -23,6 +23,8 @@
 <img height="137" src="https://raw.githubusercontent.com/Furry-Monster/Furry-Monster/output/stats.svg" alt="stats" />
 <img height="137" src="https://raw.githubusercontent.com/Furry-Monster/Furry-Monster/output/top-langs.svg" alt="top langs" />
 
+<img src="https://raw.githubusercontent.com/Furry-Monster/Furry-Monster/output/activity-graph.svg" width="100%" alt="activity" />
+
 </div>
 
 ## Contribution snake
