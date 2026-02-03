@@ -16,6 +16,15 @@
 
 `C#` `C++` `Python` `Dart` · Unity · Unreal · Flutter · Vue · Avalonia · Git · Linux · Docker · Jupyter
 
+## Stats
+
+<div align="center">
+
+<img height="137" src="https://raw.githubusercontent.com/Furry-Monster/Furry-Monster/output/stats.svg" alt="stats" />
+<img height="137" src="https://raw.githubusercontent.com/Furry-Monster/Furry-Monster/output/top-langs.svg" alt="top langs" />
+
+</div>
+
 ## Contribution snake
 
 <div align="center">
@@ -37,4 +46,4 @@
 
 ---
 
-<sub>Profile assets: [snk](https://github.com/Platane/snk) + workflow → `output` branch.</sub>
+<sub>Profile assets: [snk](https://github.com/Platane/snk) + [github-readme-stats-action](https://github.com/readme-tools/github-readme-stats-action) → `output` branch.</sub>
