@@ -12,8 +12,8 @@
 
 Student. Focused on graphics, game dev, frontend & Linux.
 
-- Current: Unity/UE, technical art, Linux kernel
-- Planned: GAMES104
+- Current: Unity/UE developer, Technical artist(rendering & PCG mainly), Linux kernel enthusiast.
+- Planned: Build my first progressive game engine.
 - [Blog](https://monsterstation.netlify.app/about/)
 
 ## Stack
@@ -60,7 +60,7 @@ Student. Focused on graphics, game dev, frontend & Linux.
 
 ## Contact · Interests
 
-[Gmail](mailto:4urrym0nster@gmail.com) · [Blog](https://monsterstation.netlify.app/about/) · [Twitter](https://twitter.com/Furry_Monster_)  
-Games (horror, indie), music (electronic, piano), coffee, ACG (EVA, Re:Zero)
+[Gmail](mailto:4urrym0nster@gmail.com) · [Blog](https://monsterstation.netlify.app/about/) · [Twitter](https://twitter.com/Furry_Monster_) · [Discord](https://discord.com/users/1314183151353987094) · [Bilibili](https://space.bilibili.com/199684075)
+Games (horror, indie), music (electronic, jpop), coffee, ACG (Oshi No Ko, Re:Zero)
 
 ---
