@@ -13,7 +13,7 @@
 Student. Focused on graphics, game dev, frontend & Linux.
 
 - Current: Unity/UE developer, Technical artist(rendering & PCG mainly), Linux kernel enthusiast.
-- Planned: Build my first progressive game engine.
+- Planned: Read RTR4.
 - [Blog](https://monsterstation.netlify.app/about/)
 
 ## Stack
