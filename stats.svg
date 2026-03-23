@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Furry-Monster &#30340; GitHub &#32479;&#35745;&#25968;&#25454;, Rank: B</title>
-        <desc id="descId">获标星数: 38, 累计提交总数  : 1290, 发起的 PR 总数: 44, 提出的 issue 总数: 17, 贡献的项目数（去年）: 5</desc>
+        <desc id="descId">获标星数: 41, 累计提交总数  : 1296, 发起的 PR 总数: 45, 提出的 issue 总数: 17, 贡献的项目数（去年）: 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 138.70497408886263;
+        stroke-dashoffset: 136.59462659897224;
       }
     }
   
@@ -148,7 +148,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >38</text>
+      >41</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -178,7 +178,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >44</text>
+      >45</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
