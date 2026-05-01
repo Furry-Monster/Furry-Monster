@@ -35,7 +35,11 @@
 - **我认为我是：** 学生，Unity/UE 开发者，技术美术爱好者(对渲染与 PCG 感兴趣)，Linux 内核爱好者。
 - **我近期的学习计划：** 在 QEMU 上启动我的第一个Rust操作系统。
 - **我参与的开源项目：** [Realm 渲染器](https://github.com/Furry-Monster/Realm) · [Nano 虚拟几何体](https://github.com/Furry-Monster/Nano)
-- **我的工作履历：** [Unity HDRP引擎开发](https://unity.cn/)
+- **我的工作履历：**
+  - Unity 引擎开发Intern(渲染)
+    - [GDRP(GPU-Driven Rendering Pipeline) 开发](https://docs.unity.cn/cn/tuanjiemanual/1.8/Manual/VirtualGeometry.html)
+    - [Tuanjie AI 开发](https://docs.unity.cn/cn/tuanjiemanual/Manual/TuanjieAI.html)
+  
 
 ## 技术栈
 
