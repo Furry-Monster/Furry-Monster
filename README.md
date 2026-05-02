@@ -59,9 +59,9 @@
   </div>
 </div>
 
-<div align="center">
-
 ## 贡献数据
+
+<div align="center">
 
 <img height="137" src="https://raw.githubusercontent.com/Furry-Monster/Furry-Monster/output/stats.svg" alt="stats" />
 <img height="137" src="https://raw.githubusercontent.com/Furry-Monster/Furry-Monster/output/top-langs.svg" alt="top langs" />
