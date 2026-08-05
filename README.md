@@ -39,7 +39,7 @@
   - Unity 引擎开发Intern(渲染) (2026.3--2026.5)
     - [GDRP(GPU-Driven Rendering Pipeline) 开发](https://docs.unity.cn/cn/tuanjiemanual/1.8/Manual/VirtualGeometry.html)
     - [Tuanjie AI 开发](https://docs.unity.cn/cn/tuanjiemanual/Manual/TuanjieAI.html)
-  - 某游戏公司(游戏客户端) (2026.5--至今)
+  - 某游戏公司 (2026.5--至今)
   
 
 ## 技术栈
